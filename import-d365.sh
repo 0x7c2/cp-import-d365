@@ -3,8 +3,7 @@ source /opt/CPshrd-R80.40/tmp/.CPprofile.sh
 #
 # Copyright 2021 by by 0x7c2, Simon Brecht.
 # All rights reserved.
-# This file is used to automaticly block suspected sources in
-# Check Point Gateways within UserDefined Alerting Scripts,
+# This file is used to automaticly import cognos d365 ip addresses,
 # and is released under the "Apache License 2.0". Please see the LICENSE
 # file that should have been included as part of this package.
 #
